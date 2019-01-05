@@ -1,5 +1,5 @@
 # nettools
-Generic socket-based network tools that I'm writing to practice python3
+Generic socket-based network tools that I'm writing to practice networking in python3
 
 Tools So Far:
 
